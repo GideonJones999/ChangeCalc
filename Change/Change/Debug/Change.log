@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\jonesgid000\documents\visual studio 2017\projects\change\change\source.cpp(21): warning C4101: 'DollarCoin': unreferenced local variable
+c:\users\jonesgid000\documents\visual studio 2017\projects\change\change\source.cpp(19): warning C4101: 'changeAmount': unreferenced local variable
+c:\users\jonesgid000\documents\visual studio 2017\projects\change\change\source.cpp(21): warning C4101: 'Nickles': unreferenced local variable
+c:\users\jonesgid000\documents\visual studio 2017\projects\change\change\source.cpp(21): warning C4101: 'Quarters': unreferenced local variable
+c:\users\jonesgid000\documents\visual studio 2017\projects\change\change\source.cpp(21): warning C4101: 'Dimes': unreferenced local variable
+c:\users\jonesgid000\documents\visual studio 2017\projects\change\change\source.cpp(21): warning C4101: 'HalfDollar': unreferenced local variable
+c:\users\jonesgid000\documents\visual studio 2017\projects\change\change\source.cpp(21): warning C4101: 'Pennies': unreferenced local variable
+  Change.vcxproj -> c:\users\jonesgid000\documents\visual studio 2017\Projects\Change\Debug\Change.exe
+  Change.vcxproj -> c:\users\jonesgid000\documents\visual studio 2017\Projects\Change\Debug\Change.pdb (Partial PDB)
